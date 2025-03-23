@@ -1,2 +1,5 @@
 # This project is the codes of course in happyknow.com #
 https://happyknow.com
+
+# Nuxt3 Couse #
+https://happyknow.com/course/692
